@@ -2,6 +2,7 @@
 
 An AI-powered system that automatically generates analytical dashboards, KPIs, and insights from CSV data using FastAPI, OpenAI, and React.
 
+
 ## 🚀 Features
 - Automated EDA, KPI, and chart generation
 - RAG-based insight refinement
@@ -19,3 +20,4 @@ An AI-powered system that automatically generates analytical dashboards, KPIs, a
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+
