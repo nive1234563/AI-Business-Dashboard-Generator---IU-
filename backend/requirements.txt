@@ -1,0 +1,30 @@
+fastapi
+uvicorn
+pandas
+langchain
+langchain-openai
+faiss-cpu
+python-multipart
+openai
+tiktoken
+
+# Core Framework
+fastapi
+uvicorn
+
+# Data + ML
+pandas
+numpy
+prophet
+
+# AI + LLM Integration
+openai
+langchain
+langchain-openai
+python-dotenv
+
+# Optional but recommended
+matplotlib
+scikit-learn
+
+#pip install -r requirements.txt
