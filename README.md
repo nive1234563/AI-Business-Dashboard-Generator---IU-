@@ -1,7 +1,9 @@
 # 🌐 AI Dashboard Generator
 
 An AI-powered system that automatically generates analytical dashboards, KPIs, and insights from CSV data using FastAPI, OpenAI, and React.
-
+<p align="center">
+  <img src="images/Rainfall1.png" alt="AI Dashboard Overview" width="800">
+</p>
 
 ## 🚀 Features
 - Automated EDA, KPI, and chart generation
